@@ -56,25 +56,3 @@ else:
         print("It's a draw")
     else:
         print("Mistake hai kuch!")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
