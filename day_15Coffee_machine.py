@@ -86,7 +86,6 @@ def providing_change(user_input,final_income):
         change=final_income- available_cost
         print(f"Here is ${change} dollars in change.")
 
-# 1 6 7
 while(play):
     user_input= input("What would you like? (espresso/latte/cappuccino):")
     if user_input=='report':
@@ -109,24 +108,4 @@ while(play):
                 play=False
         else:
             play=False
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            
